@@ -1,0 +1,39 @@
+#wrap {
+  margin-right: auto;
+  padding: 6px;
+  width: 725px;
+}
+#header {
+  font-family: Georgia,"Times New Roman",Times,serif;
+  font-size: 34px;
+  font-weight: normal;
+  margin-left: 200px;
+}
+.nav {
+  width = 100%;
+  text-align: center;
+}
+#side {
+  float: left;
+  width: 200px;
+  font: 10px Verdana,Arial,Helvetica,sans-serif;
+}
+#content {
+  margin-left: 200px;
+}
+#albums {
+  font: 12px Verdana,Arial,Helvetica,sans-serif;
+}
+#albums td {
+  text-align: center;
+}
+a {
+  color: black;
+}
+a.visited {
+  color: blue;
+}
+a img {
+  border: none;
+}
+.clear { clear:both; }
